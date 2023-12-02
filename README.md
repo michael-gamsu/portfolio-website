@@ -1,7 +1,3 @@
-Sure, here's an updated version for your README.md file:
-
----
-
 # Michael Gamsu
 
 - **Email:** michael@gamsu.co.za
@@ -41,7 +37,3 @@ I am an aspiring software developer, IT consultant, and data analyst. A dedicate
 - **Final Report:** [Machine Learning and AI Researchers in South Africa](https://drive.google.com/file/d/1WANmhQtKlNsYG_u-58J6WVxLVsUIKgjy/view)
 
 Feel free to reach out via email or LinkedIn for collaboration or inquiries.
-
----
-
-This should provide a clear and concise overview of your skills, experiences, and achievements for anyone viewing your README.md file.
